@@ -1,1 +1,1 @@
-# demo-Nop-Commerce
+# demo-nopCommerce-Grad
